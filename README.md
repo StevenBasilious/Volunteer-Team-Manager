@@ -30,7 +30,3 @@ The project consists of the following Java files:
 - Java Development Kit (JDK) 8 or higher.
 - A Java IDE (e.g., IntelliJ IDEA, Eclipse) or command-line tools for compilation and execution.
 
-## Installation and Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Volunteer-Team-Manager.git
